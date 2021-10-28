@@ -13,6 +13,7 @@
   <img style="width:30%;"  src="https://user-images.githubusercontent.com/65457907/139199003-45f9747d-d6e3-42f4-bec7-79687c1ce743.png">
   <img style="width:30%;"  src="https://user-images.githubusercontent.com/65457907/139199088-53aa9517-5e41-4590-840a-74fffbe0b3f4.png">
 </div>
+
 - Machine Learning models (MultinomialNB)
 - Techniques used to convert alphabets into numeric vector (bag of words and tfidf)
 
